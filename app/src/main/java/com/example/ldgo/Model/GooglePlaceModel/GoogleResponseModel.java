@@ -1,6 +1,6 @@
 package com.example.ldgo.Model.GooglePlaceModel;
 
-import com.example.nearmedemo.GooglePlaceModel;
+import com.example.ldgo.GooglePlaceModel;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

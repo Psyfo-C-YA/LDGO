@@ -6,7 +6,7 @@ import android.view.LayoutInflater;
 
 import com.example.ldgo.R;
 import com.example.ldgo.R;
-import com.example.ldgo.databinding.DialogLayoutBinding;
+/*import com.example.ldgo.databinding.DialogLayoutBinding;
 
 public class LoadingDialog {
 
@@ -30,4 +30,4 @@ public class LoadingDialog {
     public void stopLoading() {
         alertDialog.dismiss();
     }
-}
+}*/

@@ -5,7 +5,7 @@ import android.telecom.Call;
 import com.example.ldgo.Model.DirectionPlaceModel.DirectionResponseModel;
 import com.example.ldgo.Model.GooglePlaceModel.GoogleResponseModel;
 
-import retrofit.Callback;
+/*import retrofit2.Callback;
 import retrofit.http.GET;
 import retrofit.http.*;
 
@@ -16,4 +16,4 @@ public interface RetrofitAPI {
 
     @GET
     Call<DirectionResponseModel> getDirection(@Url String url);
-}
+}*/

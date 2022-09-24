@@ -1,5 +1,7 @@
 package com.example.ldgo.Activity;
 
+/*import static com.example.ldgo.WebServices.RetrofitClient.retrofit;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -397,4 +399,4 @@ public class DirectionsActivity extends AppCompatActivity implements OnMapReadyC
         return path;
 
     }
-}
+}*/

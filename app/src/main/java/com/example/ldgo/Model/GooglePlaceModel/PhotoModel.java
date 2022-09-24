@@ -2,7 +2,9 @@ package com.example.ldgo.Model.GooglePlaceModel;
 
 import android.widget.ImageView;
 
-import androidx.databinding.BindingAdapter;
+
+
+//import androidx.databinding.BindingAdapter;
 
 import com.bumptech.glide.Glide;
 import com.google.gson.annotations.Expose;
@@ -60,8 +62,8 @@ public class PhotoModel {
         this.width = width;
     }
 
-    @BindingAdapter("loadImage")
+    /*@BindingAdapter("loadImage")
     public static void loadImage(ImageView view, String image) {
         Glide.with(view.getContext()).load(image).into(view);
-    }
+    }*/
 }
